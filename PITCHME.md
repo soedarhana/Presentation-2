@@ -1,3 +1,5 @@
+---?image=img/laptop.png
+
 ### @color[orange](John C Maxwell)
 <h2>Developing The @color[blue](Leader) Within You</h2>
 
