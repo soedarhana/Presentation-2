@@ -5,3 +5,9 @@
 
 @size[2.5em](Ada Banyak Hal Yang Seharusnya Tidak Anda Lakukan !)
 
+---
+
+<p> " Seni menjadi bijaksana adalah : @color[sky](Seni Mengetahui apa yang harus di perhatikan.) " </p> </br>
+<p> Terlalu banyak orang hidup dengan prioritas yang salah </p>
+
+---
