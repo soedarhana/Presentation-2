@@ -25,7 +25,7 @@
 <p>" Fokus pada keahlian masing-masing, Jika semua orang bisa melakukan pekerjaan oleh mereka sendiri 
   mungkin manusia bukan lagi makhluk sosial" </p>
   
----?image=img/op 2.jpg
+---?image=img/min red.jpg
 @size[4.5em](Integritas)
 +++
 
@@ -39,7 +39,7 @@ Socrates : </br>
 
 ---
 
-@size[4.5em](Integritas membangun kepercayaan !)
+@size[3em](Integritas membangun kepercayaan !)
 
 +++
 Dwight Eisenhower : </br>
