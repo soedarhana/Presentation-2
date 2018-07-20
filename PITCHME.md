@@ -50,7 +50,6 @@ memiliki rasa percaya diri. Oleh karena itu @color[red](Integritas) dibutuhkan. 
 
 <center><b>@color[red](Integritas) Membantu Pemimpin Menjadi dapat dipercaya, Bukan sekedar pintar</b></center>
 
-+++
 @ul
 - Saat setiap bawahan sudah percaya dengan atasannya, maka
 - Bawahan mengikuti atasan bukan karena paksaan, tapi mereka bangga dengan apa yang atasan buat untuk mereka & perusahaan
