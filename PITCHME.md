@@ -1,7 +1,7 @@
 ---?image=img/laptop.png
 
 ### @color[orange](John C Maxwell)
-<h2>Developing The @color[blue](Leader) Within You</h2>
+<h2>@color[white](Developing The) @color[blue](Leader) @color[white](Within You)</h2>
 
 ---
 
@@ -9,7 +9,8 @@
 
 +++
 
-<p> " Seni menjadi bijaksana adalah : @color[sky](Seni Mengetahui apa yang harus di perhatikan.) " </p> </br>
+<p> " Seni menjadi bijaksana adalah : @color[sky](Seni Mengetahui apa yang harus di perhatikan.) " 
+@William James </p> </br>
 <p> Terlalu banyak orang hidup dengan prioritas yang salah </p>
 
 ---
