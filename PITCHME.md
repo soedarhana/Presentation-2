@@ -12,7 +12,7 @@
 <p> " Seni menjadi bijaksana adalah : @color[sky](Seni Mengetahui apa yang harus di perhatikan.) " 
 @William James </p> 
 @ul
-- @color[sky](Program Pengabaian Terencana)
+- @color[red](Program Pengabaian Terencana)
 @ulend  </br>
 <p> Terlalu banyak orang hidup dengan prioritas yang salah </p>
 
